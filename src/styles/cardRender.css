@@ -1,0 +1,13 @@
+.cardsContainer {
+  display: -ms-grid;
+  display: grid;
+  width: 100%;
+  -ms-grid-columns: (minmax(200px, 270px))[auto-fit];
+      grid-template-columns: repeat(auto-fit, minmax(200px, 270px));
+  -webkit-column-gap: 10px;
+          column-gap: 10px;
+  row-gap: 2rem;
+  margin-top: 2rem;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}

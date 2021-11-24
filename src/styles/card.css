@@ -1,0 +1,35 @@
+.Card {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  padding: 2rem;
+  border-radius: 2rem;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.Card img {
+  height: 15rem;
+  border-radius: 2rem;
+}
+
+.Card label {
+  margin-top: 1.5rem;
+}
+
+.Card:hover {
+  -webkit-transform: scale(1.1) perspective(1px);
+          transform: scale(1.1) perspective(1px);
+}

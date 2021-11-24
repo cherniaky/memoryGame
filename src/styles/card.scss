@@ -1,0 +1,21 @@
+.Card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 2rem;
+    border-radius: 2rem;
+    img{
+        height: 15rem;
+        border-radius: 2rem;
+    }
+    label{
+        margin-top: 1.5rem;
+    }
+    transform: scale(1) ;
+    transition: 0.3s;
+}
+
+.Card:hover{
+   transform: scale(1.1) perspective(1px);
+}
