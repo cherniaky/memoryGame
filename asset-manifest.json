@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/memoryGame/static/css/main.8daad9f8.chunk.css",
+    "main.js": "/memoryGame/static/js/main.7336e6d9.chunk.js",
+    "main.js.map": "/memoryGame/static/js/main.7336e6d9.chunk.js.map",
+    "runtime-main.js": "/memoryGame/static/js/runtime-main.1191dd25.js",
+    "runtime-main.js.map": "/memoryGame/static/js/runtime-main.1191dd25.js.map",
+    "static/js/2.de6837ed.chunk.js": "/memoryGame/static/js/2.de6837ed.chunk.js",
+    "static/js/2.de6837ed.chunk.js.map": "/memoryGame/static/js/2.de6837ed.chunk.js.map",
+    "index.html": "/memoryGame/index.html",
+    "static/css/main.8daad9f8.chunk.css.map": "/memoryGame/static/css/main.8daad9f8.chunk.css.map",
+    "static/js/2.de6837ed.chunk.js.LICENSE.txt": "/memoryGame/static/js/2.de6837ed.chunk.js.LICENSE.txt",
+    "static/media/boba.9c68dbc4.jpg": "/memoryGame/static/media/boba.9c68dbc4.jpg",
+    "static/media/chicken-rice.612ae76f.png": "/memoryGame/static/media/chicken-rice.612ae76f.png",
+    "static/media/crawfish.7ceecee8.png": "/memoryGame/static/media/crawfish.7ceecee8.png",
+    "static/media/curry.c7cc4197.jpg": "/memoryGame/static/media/curry.c7cc4197.jpg",
+    "static/media/dimsum.526a0f08.jpg": "/memoryGame/static/media/dimsum.526a0f08.jpg",
+    "static/media/hotpot.b20d547d.jpg": "/memoryGame/static/media/hotpot.b20d547d.jpg",
+    "static/media/matcha.529e5fb0.jpg": "/memoryGame/static/media/matcha.529e5fb0.jpg",
+    "static/media/ramen.aec29cb1.jpg": "/memoryGame/static/media/ramen.aec29cb1.jpg",
+    "static/media/steak.3deb7bd5.png": "/memoryGame/static/media/steak.3deb7bd5.png",
+    "static/media/sushi.6cd79316.png": "/memoryGame/static/media/sushi.6cd79316.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1191dd25.js",
+    "static/js/2.de6837ed.chunk.js",
+    "static/css/main.8daad9f8.chunk.css",
+    "static/js/main.7336e6d9.chunk.js"
+  ]
+}
